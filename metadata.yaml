@@ -1,0 +1,37 @@
+_repo: The-Book-of-Fair-Women_53366
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: King, Richard
+    alias: Huskinson, Richard King
+    birthdate: 1879
+    deathdate: 1947
+    gutenberg_agent_id: '28413'
+    url: http://www.gutenberg.org/2009/agents/28413
+  photographer:
+    agent_name: Hoppé, E. O. (Emil Otto)
+    aliases:
+    - Hoppé, Emil Otto
+    - Hoppe, E. O. (Emil Otto)
+    birthdate: 1878
+    deathdate: 1972
+    gutenberg_agent_id: '47338'
+    url: http://www.gutenberg.org/2009/agents/47338
+description: ''
+gutenberg_bookshelf: Sociology
+gutenberg_issued: '2016-10-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53366'
+  lccn: '23006386'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Beauty, Personal'
+- !lcc 'N'
+- !lcsh 'Women -- Portraits'
+- GITenberg
+title: The Book of Fair Women
+url: http://www.gutenberg.org/ebooks/53366
